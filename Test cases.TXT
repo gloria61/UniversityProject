@@ -1,0 +1,38 @@
+As a student I can create and save my account
+register fake account then search and compare if values provided match with values in the database 
+
+As a student I can log in to my account using my email and password
+test behavior of the system (if it changed the activity) using incorrect and correct values
+
+As a student, I want to get potential matches propositions based on compatibility
+check the average compatibility score for 20 matches - if it is higher than the predefined threshold value
+
+As a student I can accept or reject propositions by swiping right or left	
+use both options and compare how it affected the database (specifically – matches table)
+
+As a student, I can go to chat screen to talk with matched users
+send message to yourself then check with database message sent and received
+
+As a student I can get personalized notifications about university events
+using applicable data about user check if it assigns him to appropriate notifications
+
+As a student I can share my location with others
+compare location that was shared with the location of the phone
+
+As a student, I want to connect my account to social media
+check if appropriate buttons redirect to appropriate social media applications
+
+As a student, I can block other users so that they are not visible in my app
+block a user and compare with the database (specifically – with table containing blocked users)
+
+As a student, I want an option to use the dark mode
+turn function on and check all screens background colour
+
+As a student I can upload pictures to my account
+upload picture and check the database 
+
+As a student I can edit my account
+using settings change randomly selected values and compare with the database
+
+As a student, I can search for a specific person using his name
+pick random users from the database and search for them 
